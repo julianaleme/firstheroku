@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@vue/cli-service": "^4.0.5",
+    "@vue/cli-service-global": "^4.0.5",
     "express": "^4.17.1"
   }
 }
